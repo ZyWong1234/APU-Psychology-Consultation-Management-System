@@ -1,0 +1,6 @@
+userID,Username,Full Name,Password,User Type
+LEC0001,Jim,Wang Jim Loong,Jimmy01,Lecturer
+STD0001,Zy,Wong Zhi Yoong,ZhiYoong02,Student
+LEC0002,Jasmine,Jasmine Yeoh,Jasmine03,Lecturer
+LEC0003,Max,Max Yong,Maxyong04,Lecturer
+STD0002,Zoe,Zoe Marie,Zoe05,Student
